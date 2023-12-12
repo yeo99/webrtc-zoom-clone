@@ -1,0 +1,9 @@
+{
+  "name": "webrtc-zoom-clone",
+  "version": "1.0.0",
+  "description": "Zoom clone using WebSockets, SocketIO, WebRTC",
+  "main": "index.js",
+  "repository": "https://github.com/yeo99/webrtc-zoom-clone",
+  "author": "yeo99",
+  "license": "MIT"
+}
